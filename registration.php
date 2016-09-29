@@ -29,7 +29,7 @@ require('menu.php');
 <p>Please Fil All The Information Below. All Fields Are Required To Be Filled ! </p>
 <br>
     </div>
-
+ghfghfhfgfhf
 <div style="width: 40%;margin-left: 28%">
 
     <form class="form-horizontal" name="registration" method="POST" action="" >
